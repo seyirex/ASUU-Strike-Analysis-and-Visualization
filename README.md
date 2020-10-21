@@ -1,0 +1,2 @@
+# ASUU-Strike-Analysis-and-Visualization
+The Academic Staff of Universities Union (ASUU) and the Federal Government of Nigeria are always in conflict over funding of the Nigerian Universities, better working condition among other ASUU demands. And each time the two parties call for a meeting to settle their disagreements, it usually ended with the government promising the union that the demands would be met soon..Thats why this research as taken place in order to get more insight from the data gathered and to see if any pattern occurs
